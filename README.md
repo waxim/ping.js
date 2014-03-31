@@ -1,4 +1,10 @@
-ping.js
-=======
+# ping.js
 
-ping/pong
+Ping will pong
+
+# Usage
+
+```html
+<script src='./ping.js' />
+<a id='ping'>Ping</a>
+```
